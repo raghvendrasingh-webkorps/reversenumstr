@@ -1,0 +1,32 @@
+{
+  "name": "reversenumstr",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Reverse string or number intelligently",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghvendrasingh-webkorps/reversenumstr.git"
+  },
+  "keywords": [
+    "reverse",
+    "string",
+    "number",
+    "utility"
+  ],
+  "author": "Raghvendra Pratap Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghvendrasingh-webkorps/reversenumstr/issues"
+  },
+  "homepage": "https://github.com/raghvendrasingh-webkorps/reversenumstr#readme"
+}
